@@ -3,6 +3,7 @@
   width: 100%;
   min-height: 100vh;
   background-color: #f7f7f7;
+  overflow: auto;
 }
 .shadow {
   position: fixed;
