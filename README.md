@@ -1,4 +1,4 @@
-Ссылка на рабочий сайт - https://meek-squirrel-e0381d.netlify.app/
+Ссылка на сайт - https://meek-squirrel-e0381d.netlify.app/
 
 # Getting Started with Create React App
 
